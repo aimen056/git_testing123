@@ -1,2 +1,3 @@
 hello my name is aimen!
 i am studying computer science
+bye
